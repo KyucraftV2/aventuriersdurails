@@ -1,7 +1,7 @@
 #SAE 2.01 et 2.02
 ## Aventuriers du rails
 
-** Cette partie se découpe en deux parties, représentées sur les deux branches de ce projet. Vous pouvez retrouver les deux consignes des projets ci-dessous**
+**Cette partie se découpe en deux parties, représentées sur les deux branches de ce projet. Vous pouvez retrouver les deux consignes des projets ci-dessous**
 
 ## Premiere consigne
 ### Consignes générales
